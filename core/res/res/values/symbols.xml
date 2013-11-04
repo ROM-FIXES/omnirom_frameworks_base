@@ -2750,6 +2750,9 @@
   <java-symbol type="drawable" name="lockscreen_notselected" />
   <java-symbol type="drawable" name="lockscreen_selected" />
 
+  <!-- Samsung STK -->
+  <java-symbol type="bool" name="config_samsung_stk" />
+
   <java-symbol type="integer" name="config_sms_authorization_timeout_ms" />
   <java-symbol type="bool" name="config_sms_authorization_enabled" />
 </resources>
